@@ -1,2 +1,7 @@
-# demo-estudio-juridico-russo
-Demo web para Estudio Juridico Russo — diseñada por eterlab.
+# Estudio Juridico Russo
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
